@@ -42,7 +42,7 @@ What is the largest device you have with you?
 ## Who are we?
 
 1. What is your background - Name, affiliation, (teaching-)topic?
-2. How much experience do you have
+2. What is your experience of
 
      + generating e-learning material?
      + interacting with students online?
