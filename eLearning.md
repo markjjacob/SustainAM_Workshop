@@ -26,25 +26,13 @@ comment:  Some musings on e-learning.
 
 
 ``` ascii
-
-             '----> Tangible
-             |
-   Goals ----+----> Intangible
-             |
-             .----> Procedural
-
-             '----> Curated
-             |
-Material ----+----> Created
-             |
-             .----> Accessed
-          
-             '----> Proactive
-             |
-  Action ----+----> Reactive
-             |
-             .----> Interactive
-
+ 
+             '----> Tangible                     '----> Curated                '----> Proactive
+             |                                   |                             |
+   Goals ----+----> Intangible      Material ----+----> Created     People ----+----> Reactive
+             |                                   |                             |
+             .----> Procedural                   .----> Accessed               .----> Interactive
+             
 ```
 
 ## Next
