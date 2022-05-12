@@ -54,6 +54,16 @@ If you can't see the embedded etherpad below, then please click [here](https://e
 
 ??[etherpad](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
 
+## Another way of asking about our experience
+
+How would you assess your level of experience in:
+
+    [[Low][Below average][Above average][High]]
+    [                                         ] teaching ?
+    [                                         ] teaching online ?
+    [                                         ] generating online material ?
+    [                                         ] video-conferencing ?
+
 ## Learning/teaching goals
 
 ``` ascii
