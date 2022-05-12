@@ -23,17 +23,17 @@ comment:  Agenda for workshop on e-learning.
 
 | Time slot     | Content                                                 |
 | ------------- | ------------------------------------------------------- |
-| 10.00 – 10.15 | Introduction, Motivation                                |
-| 10.15 – 10.45 | Concepts of Git/Github                                  |
-| 10.45 – 11.15 | Coffee break                                            |
-| 11.15 – 12.30 | Markdown Basics                                         |
-| 12.30 – 13.30 | Lunch                                                   |
-| 13.30 – 15.00 | LiaScript Features and Exercises                        |
-| 15.00 – 15.30 | Coffee break                                            |
-| 15.30 – 16.30 | Integration of LiaScript in learning management systems |
+| 10.00 – 10.15 | Introduction, Who are we?                               |
+| 10.15 – 10.30 | What are our learning/teaching goals?                   |
+| 10.30 – 10.45 | What do we need to reach our goals?                     |
+| 10.45 – 11.15 | Using LiaScript to generate material and interaction    |
+| 11.15 – 11.30 | Task                                                    |
+| 11.30 – 12.00 | Lunch                                                   |
+| 12.00 – 12.15 | Task feedback and discussion of morning session         |
+| 12.15 – 13.00 | Videos and cameras                                      |
+| 13.00 – 14.00 | Extending your LiaScript material                       |
 
-
-## About us
+## Who are we?
 
 1. What is your background - Name, affiliation, (teaching-)topic?
 2. How much experience do you have
