@@ -11,13 +11,13 @@ language: en
 
 narrator: UK English Female
 
-comment:  Agenda for workshop on e-learning.
+comment:  workshop on e-learning.
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/Agenda.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/workshop.md)
 
-# Agenda
+# Workshop on E-Learning for SustainAM
 
 ## What is our agenda?
 
