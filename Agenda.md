@@ -17,6 +17,9 @@ comment:  Agenda for workshop on e-learning.
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/Agenda.md)
 
-# E-Learning
+# Agenda
+
+
+If you can't see the embedded etherpad below, then please click [here](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
 
 ??[etherpad](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
