@@ -24,9 +24,8 @@ comment:  Agenda for workshop on e-learning.
 | Time slot     | Content                                                 |
 | ------------- | ------------------------------------------------------- |
 | 10.00 – 10.15 | Introduction, Who are we?                               |
-| 10.15 – 10.30 | What are our learning/teaching goals?                   |
-| 10.30 – 10.45 | What do we need to reach our goals?                     |
-| 10.45 – 11.15 | Using LiaScript to generate material and interaction    |
+| 10.15 – 10.45 | What are our learning goals and how do we reach them?   |
+| 10.45 – 11.15 | Using LiaScript to generate material and activity       |
 | 11.15 – 11.30 | Task                                                    |
 | 11.30 – 12.00 | Lunch                                                   |
 | 12.00 – 12.15 | Task feedback and discussion of morning session         |
