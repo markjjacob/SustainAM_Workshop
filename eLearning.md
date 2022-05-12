@@ -15,12 +15,11 @@ comment:  Some musings on e-learning.
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/eLearning.md)
+
 # E-Learning
 
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge:
->
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/eLearning.md)
+
 
 ## Goals, Material and People
 
