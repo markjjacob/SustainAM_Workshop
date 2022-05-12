@@ -3,7 +3,7 @@ author:   Mark Jacob
 
 email:    Mark.Jacob@iuz.tu-freiberg.de
 
-icon:    https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ubpti3cctxwrkknblma2
+icon:    https://tu-freiberg.de/sites/default/files/resize/media/corporate-design-4376/tubaf_logo_orig_rgb-112x111.png
 
 version:  0.0.1
 
@@ -22,7 +22,7 @@ comment:  Some musings on e-learning.
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/SustainAM_Workshop/master/eLearning.md)
 
-## Basic concept
+## Goals, Material and People
 
 
 ``` ascii
