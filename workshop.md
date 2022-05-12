@@ -19,6 +19,13 @@ comment:  workshop on e-learning.
 
 # Workshop on E-Learning for SustainAM
 
+What is the largest device you have with you?
+
+[(Laptop)] Laptop
+[(Tablet)] Tablet
+[(Phone)] Mobile phone
+[(Other)] Other
+
 ## What is our agenda?
 
 | Time slot     | Content                                                 |
