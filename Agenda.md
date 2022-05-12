@@ -47,12 +47,6 @@ If you can't see the embedded etherpad below, then please click [here](https://e
 
 ## Learning/teaching goals
 
-> Goals can be:
-> 
-> -tangible (students will become familiar with fused filament fabrication)
-> -intangible (sstudents will be enthusiastic about Additive Manufacturing)
-> -procedural (students will practice working collaboratively)
-
 ``` ascii
  
              '----> Tangible
@@ -62,6 +56,12 @@ If you can't see the embedded etherpad below, then please click [here](https://e
              .----> Procedural
              
 ```
+
+> Goals can be:
+> 
+> - tangible (students will become familiar with fused filament fabrication)
+> - intangible (sstudents will be enthusiastic about Additive Manufacturing)
+> - procedural (students will practice working collaboratively)
 
 ## To reach our goals we need material
 
