@@ -44,3 +44,46 @@ comment:  Agenda for workshop on e-learning.
 If you can't see the embedded etherpad below, then please click [here](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
 
 ??[etherpad](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
+
+## Learning/teaching goals
+
+> Goals can be:
+> 
+> -tangible (students will become familiar with fused filament fabrication)
+> -intangible (sstudents will be enthusiastic about Additive Manufacturing)
+> -procedural (students will practice working collaboratively)
+
+``` ascii
+ 
+             '----> Tangible
+             |
+   GOALS ----+----> Intangible
+             | 
+             .----> Procedural
+             
+```
+
+## To reach our goals we need material
+
+``` ascii
+
+             '----> Accessed
+             |
+MATERIAL ----+----> Curated
+             |
+             .----> Created
+             
+```
+
+## Our goals involve the activity of people
+
+``` ascii
+
+           '----> Reactive
+           |
+PEOPLE ----+----> Interactive
+           |
+           .----> Proactive
+             
+```
+
