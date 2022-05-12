@@ -43,8 +43,10 @@ What is the largest device you have with you?
 
 1. What is your background - Name, affiliation, (teaching-)topic?
 2. How much experience do you have
+
      + generating e-learning material?
      + interacting with students online?
+
 3. What one burning question concerning e-learning would you like answered?
 
 If you can't see the embedded etherpad below, then please click [here](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
