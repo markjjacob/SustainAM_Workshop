@@ -29,8 +29,8 @@ comment:  workshop on e-learning.
 
 Being online
 
-[(Love)] Love it :)
-[(Hatet)] Hate it :(
+[(Love)] Love it!
+[(Hatet)] Hate it!
 [(Depends)] It depends
 
 ## Your devices
