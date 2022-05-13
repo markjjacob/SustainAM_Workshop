@@ -98,7 +98,7 @@ How would you assess your level of experience in:
              
 ```
     --{{0}}--
-Goals can be: tangible (students will become familiar with fused filament fabrication), intangible (sstudents will be enthusiastic about Additive Manufacturing) or procedural (students will practice working collaboratively).
+Goals can be: tangible (students will become familiar with fused filament fabrication), intangible (students will be enthusiastic about Additive Manufacturing) or procedural (students will practice working collaboratively).
 
 ## To reach our goals we need material
 
