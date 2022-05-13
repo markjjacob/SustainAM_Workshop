@@ -19,8 +19,10 @@ comment:  workshop on e-learning.
 
 # Workshop on E-Learning for SustainAM
 
+    {{1}}
 ![](https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/Desk/2021_1$largeimg_46130205.jpeg)
 
+    {{2}}
 ![](https://www.the74million.org/wp-content/uploads/2017/09/Kids-computers.jpg)
 
 ## How do you feel about
@@ -29,7 +31,7 @@ Being online
 
 [(Love)] Love it :)
 [(Hatet)] Hate it :(
-[(Depends)] It depends :|
+[(Depends)] It depends
 
 ## Your devices
 
