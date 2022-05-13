@@ -19,6 +19,20 @@ comment:  workshop on e-learning.
 
 # Workshop on E-Learning for SustainAM
 
+![](https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/Desk/2021_1$largeimg_46130205.jpeg)
+
+![](https://www.the74million.org/wp-content/uploads/2017/09/Kids-computers.jpg)
+
+## How do you feel about
+
+Being online
+
+[(Love)] Love it :)
+[(Hatet)] Hate it :(
+[(Depends)] It depends :|
+
+## Your devices
+
 What is the largest device you have with you?
 
 [(Laptop)] Laptop
