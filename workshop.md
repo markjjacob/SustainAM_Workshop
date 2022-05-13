@@ -42,6 +42,15 @@ What is the largest device you have with you?
 [(Phone)] Mobile phone
 [(Other)] Other
 
+What are our goals?
+
+1. To find out what you have and what you need
+2. To show you LiaScript
+3. To connect points 1 and 2
+4. To make an online LiaScript course
+5. To work collaboratively
+6. To enthuse you and motivate you to use LiaScript
+
 ## What is our agenda?
 
 | Time slot     | Content                                                 |
