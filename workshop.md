@@ -69,19 +69,14 @@ What are our goals?
 ## Who are we?
 
 1. What is your background - Name, affiliation, (teaching-)topic?
-2. What is your experience of
-
-     + generating e-learning material?
-
-     + interacting with students online?
-
+2. Which platforms, tools and software do you use online?
 3. What one burning question concerning e-learning would you like answered?
 
 If you can't see the embedded etherpad below, then please click [here](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
 
 ??[etherpad](https://etherpad.informatik.tu-freiberg.de/p/SustainAM_eLearning)
 
-## Another way of asking about our experience
+## What is our level of experience?
 
 How would you assess your level of experience in:
 
