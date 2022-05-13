@@ -42,6 +42,8 @@ What is the largest device you have with you?
 [(Phone)] Mobile phone
 [(Other)] Other
 
+## Workshop Goals
+
 What are our goals?
 
 1. To find out what you have and what you need
